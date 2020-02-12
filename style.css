@@ -18,7 +18,7 @@ figure{
 nav{
   text-align: center;
 }
-nav~a{
+nav a{
   margin-left: 10px;
   margin-right: 10px;
   color: grey;
