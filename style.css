@@ -15,4 +15,11 @@ figure{
   width: 50%;
 }
 
-
+nav{
+  text-align: center;
+}
+nav~a{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: grey;
+}
